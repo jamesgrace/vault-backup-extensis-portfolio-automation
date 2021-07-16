@@ -25,7 +25,7 @@ Microsoft Windows Batch script that include logging , retention of a desired num
   * `backupfolder` = `D:\Extensis Portfolio VAULT Backups`
     * Folder location of Vault backups.
   * `numbertokeep` = `3`
-    * How many pervious backups to retain.
+    * How many previous Vault backups to retain.
   * `backuplogfilename` = `VAULT_Backup_Log.txt`
     * Filename for Vault Backup log.
   * `emailserver` = `example-com.mail.protection.outlook.com`
