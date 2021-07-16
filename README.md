@@ -1,5 +1,5 @@
-# vault-backup-extensis-portfolio-automation
-Microsoft Windows Batch script that include logging , retention of a desired number of previous Vault backups , as well as email notifications. Note that the script can be scheduled to run at a predetermined time via the Microsoft Windows Task Scheduler.
+# vault-backup-windows-extensis-portfolio-automation
+Microsoft Windows Batch script that include logging , retention of a desired number of previous Vault backups , customiazble email notifications , as well as predetermined scheduling via the Microsoft Windows Task Scheduler.
 
 #### Requirements :
 * Extensis Portfolio version 3.6.3 ( _or greater_ ).
