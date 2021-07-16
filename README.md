@@ -19,11 +19,20 @@ Microsoft Windows Batch script that include logging , retention of a desired num
 * **`VAULT_backup.cmd`**
 
   * `blatlocation` = `C:\Program Files\Blat`
+    * Blat installation location.
   * `ziplocation` = `C:\Program Files\7-Zip`
+    * 7-Zip installaiton location.
   * `backupfolder` = `D:\Extensis Portfolio VAULT Backups`
+    * Folder location of Vault backups.
   * `numbertokeep` = `3`
+    * How many pervious backups to retain.
   * `backuplogfilename` = `VAULT_Backup_Log.txt`
+    * Filename for Vault Backup log.
   * `emailserver` = `example-com.mail.protection.outlook.com`
+    * Email server
   * `emailto` = `helpdesk@example.com`
+    * Email - To:
   * `emailfrom` = `portfolio_noreply@example.com`
+    * Email - From:
   * `emailsubject` = `"Portfolio Notification: VAULT Backup Log"`
+    * Email - Subject:
