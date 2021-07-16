@@ -27,9 +27,9 @@ Microsoft Windows Batch script that include logging , retention of a desired num
   * `numbertokeep` = `3`
     * How many previous Vault backups to retain.
   * `backuplogfilename` = `VAULT_Backup_Log.txt`
-    * Filename for Vault Backup log.
+    * Filename for the Vault Backup log.
   * `emailserver` = `example-com.mail.protection.outlook.com`
-    * Email server
+    * Email - Server
   * `emailto` = `helpdesk@example.com`
     * Email - To:
   * `emailfrom` = `portfolio_noreply@example.com`
