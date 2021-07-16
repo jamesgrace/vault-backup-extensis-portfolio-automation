@@ -28,11 +28,11 @@ Microsoft Windows Batch script that includes logging , retention of a desired nu
     * How many previous Vault backups to retain.
   * `backuplogfilename` = `VAULT_Backup_Log.txt`
     * Filename for the Vault Backup log.
-  * `emailserver` = `example-com.mail.protection.outlook.com`
+  * `emailserver` = `mail.example.com`
     * Email - Server
-  * `emailto` = `helpdesk@example.com`
+  * `emailto` = `example.recipient@example.com`
     * Email - To:
-  * `emailfrom` = `portfolio_noreply@example.com`
+  * `emailfrom` = `ServerName_noreply@example.com`
     * Email - From:
   * `emailsubject` = `"Portfolio Notification: VAULT Backup Log"`
     * Email - Subject:
