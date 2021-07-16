@@ -21,11 +21,11 @@ set numbertokeep=3
 
 set backuplogfilename=VAULT_Backup_Log.txt
 
-set emailserver=example-com.mail.protection.outlook.com
+set emailserver=mail.example.com
 
-set emailto=helpdesk@example.com
+set emailto=example.recipient@example.com
 
-set emailfrom=portfolio_noreply@example.com
+set emailfrom=ServerName_noreply@example.com
 
 set emailsubject="Portfolio Notification: VAULT Backup Log"
 
