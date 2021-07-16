@@ -36,3 +36,5 @@ Microsoft Windows Batch script that include logging , retention of a desired num
     * Email - From:
   * `emailsubject` = `"Portfolio Notification: VAULT Backup Log"`
     * Email - Subject:
+
+:warning: The ( _mongodump_ ) command can be run while Portfolio is actively running ( _aka “hot” backups_ ) — but , note that periodic **Portfolio Vault Backups must be timed to occur at the same exact time that scheduled Portfolio environment backups occur**.
